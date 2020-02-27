@@ -10,8 +10,12 @@ namespace consoleappmaksym
     {
         static void Main(string[] args)
         {
-            
-            Console.WriteLine("speranskyy");
+            double x, y, z;
+            x = Convert.ToDouble(Console.ReadLine());
+            y = Convert.ToDouble(Console.ReadLine());
+            z = Math.Pow(x / y, 2);
+
+            Console.WriteLine($"Z = {z}");
             
 
         }
