@@ -10,7 +10,10 @@ namespace consoleappmaksym
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("speranskyy");
+            
+
         }
     }
 }
