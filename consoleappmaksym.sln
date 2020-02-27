@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consoleappmaksym", "consoleappmaksym\consoleappmaksym.csproj", "{D8A5A192-E334-483F-AAB1-669AA80BDC75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A5A192-E334-483F-AAB1-669AA80BDC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A5A192-E334-483F-AAB1-669AA80BDC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A5A192-E334-483F-AAB1-669AA80BDC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A5A192-E334-483F-AAB1-669AA80BDC75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FD5DD59-CB26-47B4-A6A7-FC63F6E246D8}
+	EndGlobalSection
+EndGlobal
